@@ -12,7 +12,7 @@ First, we created a report to see the number of employees retiring by title. We 
 - The report identified that 90,398 employees will be eligible for retirement.
 - Senior Engineer & Senior Staff & Engineer are the top 3 titles where the number of employees retiring are higher.  
 
-[retiring_title](Queries/retiring_titles.PNG)
+![retiring_titles](Queries/retiring_titles.PNG)
 
 The next step was to be prepared to fill all those positions through a mentorship program. We combined the tables and filtered to a list that contained current employees who were born between January 1, 1965 and December 31, 1965 and are still with the company by using the to_date column.
 - The report established a list of 1,549 employees that would be eligible for the mentorship program.
